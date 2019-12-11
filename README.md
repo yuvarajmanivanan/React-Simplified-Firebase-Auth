@@ -1,5 +1,5 @@
 
-[![Screenshot](https://github.com/Trident-Solutions/React-Simplified-FirebaseAuth/blob/master/github-banner.png)](https://tridentnets.com/)
+[![Screenshot](https://github.com/yuvarajmanivanan/React-Simplified-Firebase-Auth/blob/master/banner.png)](https://tridentnets.com/)
 
 # React-Simplified Firebase Auth :
 
